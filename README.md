@@ -5,10 +5,11 @@
 Welcome to my GitHub! I bridge the gap between code and visual art. I don't just build game mechanics—I bring projects to life from the very first line of Java code to custom 3D models in Blender and the final video edit.
 
 ### 🛠️ Tech Stack & Tools
-*   **Programming:** Java, [doplň případně další, např. Python / C#]
+*   **Programming:** Java
 *   **Game Dev:** Indie Game Development, Minecraft Modding (Forge / Fabric / Bukkit API)
 *   **Visuals & 3D Art:** Blender (3D modeling, texturing, rendering), Photography
-*   **Video & Post-production:** [doplň program, např. Adobe Premiere Pro / DaVinci Resolve]
+*   **Video & Post-production:**
+DaVinci Resolve
 
 ### 🎮 What I'm currently working on
 *   🌱 Currently developing: **[Doplň název projektu, např. a new custom Minecraft mod / indie game]**
@@ -19,5 +20,5 @@ Welcome to my GitHub! I bridge the gap between code and visual art. I don't just
 *   ⛏️ **[Název Minecraft Módu]** - [Stručný popis, např.: A comprehensive mod introducing a new magic system and custom 3D-modeled mobs.]
 
 ### 📫 Let's Connect
-*   💼 **LinkedIn:** [Odkaz na tvůj LinkedIn profil]
+*   💼 **LinkedIn:** https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
 *   🎨 **Portfolio / Visuals:** [Odkaz na tvé portfolio, ArtStation, YouTube nebo Instagram]
